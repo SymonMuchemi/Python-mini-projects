@@ -5,10 +5,10 @@ This repository contains a collection of Python mini projects.
 ## Project List
 
 1. Project 1: [Email validation script](https://github.com/Simon-Muchemi/Python-mini-projects/blob/main/email.py)
-   - Description of project 1.
+   - A program that checks if an input is an email using regular expression.
 
 2. Project 2: [Phone number validation](https://github.com/Simon-Muchemi/Python-mini-projects/blob/main/phone.py)
-   - Description of project 2.
+   - A program that checks if an input is a phone number using regular expression.
 <!-- Add more projects as needed -->
 
 ## Contribution
